@@ -1,6 +1,6 @@
-# P2 - Rhythmic Phasing
+# Demo P2P Network
 
-A circular rhythm sequencer for visualizing, creating, and playing rhythms.
+A demonstration for the purpose of connection multiple computers using a peer to peer network including measurement and performance testing.
 
 ## Authors
 
@@ -27,17 +27,8 @@ npm install gulp -g
 
 After running the gulp command, a new browser window will open with the project running.
 
-### Controls
-
-
-
-<!-- ## Deployment
-
-If you cannot run local web server, view project here: [http://jrstrauss.net/cg/tetrobot/](http://jrstrauss.net/cg/tetrobot/) -->
-
 ## Built With
 
-* [Three.js](https://threejs.org/) - The WebGL JavaScript graphics framework
-* [Tone.js](https://tonejs.github.io/) - Provides advanced scheduling capabilities, synths and effects, and intuitive musical abstractions built on top of the Web Audio API.
+* [node.js](https://nodejs.org/en/)
 
 ## Reference Materials
